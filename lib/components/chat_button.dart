@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kokozaki_app_project_1/notifications_screen.dart';
+import 'package:kokozaki_app_project_1/view/notifications_screen/notifications_screen.dart';
 
 class ChatButton extends StatefulWidget {
   const ChatButton({super.key});

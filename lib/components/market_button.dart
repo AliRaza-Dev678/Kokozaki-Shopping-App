@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kokozaki_app_project_1/home_screen.dart';
+import 'package:kokozaki_app_project_1/view/home_screen/home_screen.dart';
 
 class MarketButton extends StatefulWidget {
   const MarketButton({super.key});
